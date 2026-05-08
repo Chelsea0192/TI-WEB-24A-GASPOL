@@ -14,7 +14,7 @@ export default function Footer() {
      </div>
 
      <div className="footer-section">
-        
+        <h3>Jam Operasional</h3>
      </div>
     </footer>
   )
