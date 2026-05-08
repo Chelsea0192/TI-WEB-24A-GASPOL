@@ -57,3 +57,6 @@ body {
   border-radius: 10px;
   margin-bottom: 2rem;
 }
+.hero h1 {
+  font-size: 3rem;
+}
