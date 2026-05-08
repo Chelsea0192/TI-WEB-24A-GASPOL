@@ -31,6 +31,7 @@ export default function Home() {
        <div className="card">
           <div className="card-image"></div>
           <div className="card-content">
+          <h3 className="card-title">Lautan Pasir Bromo</h3>
           </div>
         </div>
     </>
