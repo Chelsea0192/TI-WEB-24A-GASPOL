@@ -21,6 +21,7 @@ export default function Home() {
       <div className="cards-container">
         <div className="card">
           <div className="card-image"></div>
+          <h3 className="card-title">Panorama Sunrise</h3>
         </div>
       </div>
     </>
