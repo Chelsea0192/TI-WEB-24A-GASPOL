@@ -15,3 +15,6 @@ body {
   margin: 0 auto;
   padding: 0 20px;
 }
+.navbar {
+  background-color: #2c3e50;
+}
