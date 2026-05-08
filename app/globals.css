@@ -40,3 +40,6 @@ body {
   list-style: none;
   color: white;
 }
+.nav-link {
+  padding: 0.5rem 1rem;
+}
