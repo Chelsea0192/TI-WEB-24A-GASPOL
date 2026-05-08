@@ -22,6 +22,10 @@ export default function Home() {
         <div className="card">
           <div className="card-image"></div>
           <h3 className="card-title">Panorama Sunrise</h3>
+           <p className="card-text">
+              Nikmati keindahan matahari terbit dari puncak Gunung Penanjakan. 
+              Pemandangan golden hour yang memukau dengan latar Gunung Bromo dan Semeru.
+            </p>
         </div>
       </div>
     </>
