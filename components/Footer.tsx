@@ -22,7 +22,7 @@ export default function Footer() {
       </div>
 
         <div className="footer-bottom">
-            
+            <p>&copy; 2026 Wisata Bromo. All rights reserved.</p>
         </div>
 
     </footer>
