@@ -15,6 +15,7 @@ export default function Footer() {
 
      <div className="footer-section">
         <h3>Jam Operasional</h3>
+        <p>Senin - Minggu: 24 Jam</p>
      </div>
     </footer>
   )
