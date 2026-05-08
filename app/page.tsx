@@ -43,6 +43,10 @@ export default function Home() {
           <div className="card-image"></div>
           <div className="card-content">
           <h3 className="card-title">Kawah Bromo</h3>
+          <p className="card-text">
+              Rasakan sensasi mendaki ke puncak kawah dan melihat langsung 
+              aktifitas gunung berapi yang masih aktif hingga saat ini.
+          </p>
           </div>
         </div>
     </>
