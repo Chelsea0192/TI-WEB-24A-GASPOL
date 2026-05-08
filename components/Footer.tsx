@@ -10,6 +10,7 @@ export default function Footer() {
         <h3>Kontak</h3>
         <p>📞 +62 123 4567 890</p>
         <p>✉️ info@wisatabromo.com</p>
+        <p>📍 Jawa Timur, Indonesia</p>
      </div>
     </footer>
   )
