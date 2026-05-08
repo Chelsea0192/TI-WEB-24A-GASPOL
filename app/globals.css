@@ -32,4 +32,11 @@ body {
 .navbar-logo {
   font-weight: bold;
   color: #f39c12;
+  text-decoration: none;
+  display: flex;
+}
+.nav-menu {
+  gap: 2rem;
+  list-style: none;
+  color: white;
 }
