@@ -7,7 +7,7 @@ export default function Footer() {
       </div>
 
      <div className="footer-section">
-        
+        <h3>Kontak</h3>
      </div>
     </footer>
   )
