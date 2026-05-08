@@ -12,10 +12,17 @@ export default function Home() {
            <p>Keindahan Alam yang Tak Terlupakan di Jawa Timur</p>
       </div>
       <Overview title="Selamat Datang di Wisata Bromo" content={overviewText} />
+    
+       <Overview
+        title="Selamat Datang di Wisata Bromo"
+        content={overviewText}
+      />
 
-       <div className="cards-container">
-        
-       </div>
+      <div className="cards-container">
+        <div className="card">
+          <div className="card-image"></div>
+        </div>
+      </div>
     </>
   )
 }
