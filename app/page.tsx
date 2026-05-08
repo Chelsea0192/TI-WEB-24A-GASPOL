@@ -28,6 +28,11 @@ export default function Home() {
             </p>
         </div>
       </div>
+       <div className="card">
+          <div className="card-image"></div>
+          <div className="card-content">
+          </div>
+        </div>
     </>
   )
 }
