@@ -8,6 +8,7 @@ export default function Footer() {
 
      <div className="footer-section">
         <h3>Kontak</h3>
+        <p>📞 +62 123 4567 890</p>
      </div>
     </footer>
   )
