@@ -29,3 +29,7 @@ body {
   align-items: center;
   font-size: 1.5rem;
 }
+.navbar-logo {
+  font-weight: bold;
+  color: #f39c12;
+}
