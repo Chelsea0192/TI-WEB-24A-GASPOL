@@ -12,6 +12,10 @@ export default function Footer() {
         <p>✉️ info@wisatabromo.com</p>
         <p>📍 Jawa Timur, Indonesia</p>
      </div>
+
+     <div className="footer-section">
+        
+     </div>
     </footer>
   )
 }
