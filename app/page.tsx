@@ -9,6 +9,7 @@ export default function Home() {
     <>
       <div className="hero">
          <h1>🌄 Pesona Gunung Bromo</h1>
+           <p>Keindahan Alam yang Tak Terlupakan di Jawa Timur</p>
       </div>
     </>
   )
