@@ -11,6 +11,7 @@ export default function Home() {
          <h1>🌄 Pesona Gunung Bromo</h1>
            <p>Keindahan Alam yang Tak Terlupakan di Jawa Timur</p>
       </div>
+      <Overview title="Selamat Datang di Wisata Bromo" content={overviewText} />
     </>
   )
 }
