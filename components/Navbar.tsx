@@ -7,6 +7,7 @@ export default function Navbar() {
      const navItems = [
     { name: 'Home', path: '/' },
     { name: 'Bromo', path: '/bromo' },
+    { name: 'Info Wisata', path: '/info-wisata' },
   ]
 
 }
