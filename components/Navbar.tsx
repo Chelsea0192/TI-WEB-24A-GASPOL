@@ -17,6 +17,9 @@ export default function Navbar() {
       <Link href="/" className="navbar-logo">
         🌋 Wisata Bromo
       </Link>
+       <ul className="nav-menu">
+        
+       </ul>
     </div>
   </nav>
 )
