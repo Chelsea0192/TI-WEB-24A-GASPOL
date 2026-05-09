@@ -19,6 +19,9 @@ export default function Navbar() {
       </Link>
        <ul className="nav-menu">
          {navItems.map((item) => (
+          <li key={item.path}>
+
+          </li>
 
         ))}
 
