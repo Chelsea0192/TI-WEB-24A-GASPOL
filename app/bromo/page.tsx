@@ -12,6 +12,12 @@ export default function BromoPage() {
   gunung lainnya: kawah yang mudah diakses, lautan pasir terluas di Indonesia,
   pemandangan sunrise terbaik di Pulau Jawa, serta keberadaan pura di tengah
   lautan pasir.`;
+   
 
+   return (
+    <>
+    
+    </>
+  )
   
 }
