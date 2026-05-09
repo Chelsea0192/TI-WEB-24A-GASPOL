@@ -3,6 +3,7 @@ export default function InfoWisataPage() {
     <>
      <div className="hero">
      <h1>📋 Info Wisata Bromo</h1>
+     <p>Informasi lengkap untuk kunjungan Anda</p>
     </div>
 
     </>
