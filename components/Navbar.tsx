@@ -6,6 +6,7 @@ export default function Navbar() {
      const pathname = usePathname()
      const navItems = [
     { name: 'Home', path: '/' },
+    { name: 'Bromo', path: '/bromo' },
   ]
 
 }
