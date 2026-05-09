@@ -6,6 +6,9 @@ export default function InfoWisataPage() {
      <p>Informasi lengkap untuk kunjungan Anda</p>
     </div>
 
+      <div className="info-section">
+        
+      </div>
     </>
   )
 }
