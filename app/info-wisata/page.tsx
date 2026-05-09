@@ -11,7 +11,8 @@ export default function InfoWisataPage() {
      </div>
 
      <ul className="info-list">
-        
+     <li>Wisatawan Domestik (Weekday): Rp 25.000 - Rp 50.000</li>
+
      </ul>
     </>
   )
