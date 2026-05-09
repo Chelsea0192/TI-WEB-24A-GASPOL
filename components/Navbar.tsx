@@ -8,6 +8,7 @@ export default function Navbar() {
     { name: 'Home', path: '/' },
     { name: 'Bromo', path: '/bromo' },
     { name: 'Info Wisata', path: '/info-wisata' },
+    { name: 'Hubungi Kami', path: '/hubungi-kami' },
   ]
 
 }
