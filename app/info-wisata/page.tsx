@@ -6,9 +6,13 @@ export default function InfoWisataPage() {
      <p>Informasi lengkap untuk kunjungan Anda</p>
     </div>
 
-      <div className="info-section">
-        <h2 className="info-title">Harga Tiket Masuk</h2>
-      </div>
+     <div className="info-section">
+     <h2 className="info-title">Harga Tiket Masuk</h2>
+     </div>
+
+     <ul className="info-list">
+        
+     </ul>
     </>
   )
 }
