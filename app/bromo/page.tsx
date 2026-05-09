@@ -16,7 +16,9 @@ export default function BromoPage() {
 
    return (
     <>
-    
+    <div className="hero">
+        
+    </div>
     </>
   )
   
