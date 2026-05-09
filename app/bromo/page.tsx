@@ -8,5 +8,10 @@ export default function BromoPage() {
   kepercayaan Hindu. Masyarakat Tengger yang tinggal di sekitar kawasan ini
   masih menjaga tradisi dan budaya leluhur.`;
 
+  const keunikanText = `Gunung Bromo memiliki beberapa keunikan yang tidak dimiliki
+  gunung lainnya: kawah yang mudah diakses, lautan pasir terluas di Indonesia,
+  pemandangan sunrise terbaik di Pulau Jawa, serta keberadaan pura di tengah
+  lautan pasir.`;
+
   
 }
