@@ -18,6 +18,7 @@ export default function BromoPage() {
     <>
     <div className="hero">
     <h1>🌋 Gunung Bromo</h1>
+    <p>Megahnya Api Abadi dari Timur Pulau Jawa</p>
     </div>
     </>
   )
