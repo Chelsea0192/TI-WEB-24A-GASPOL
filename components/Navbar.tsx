@@ -18,7 +18,11 @@ export default function Navbar() {
         🌋 Wisata Bromo
       </Link>
        <ul className="nav-menu">
-        
+         {navItems.map((item) => (
+
+        ))}
+
+
        </ul>
     </div>
   </nav>
