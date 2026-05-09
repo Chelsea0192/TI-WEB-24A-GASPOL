@@ -14,7 +14,9 @@ export default function Navbar() {
   return (
   <nav className="navbar">
       <div className="navbar-container">
-
+      <Link href="/" className="navbar-logo">
+        🌋 Wisata Bromo
+      </Link>
     </div>
   </nav>
 )
