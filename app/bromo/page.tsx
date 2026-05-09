@@ -17,7 +17,7 @@ export default function BromoPage() {
    return (
     <>
     <div className="hero">
-        
+    <h1>🌋 Gunung Bromo</h1>
     </div>
     </>
   )
