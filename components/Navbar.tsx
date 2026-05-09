@@ -12,9 +12,10 @@ export default function Navbar() {
   ]
 
   return (
-    <nav>
+  <nav className="navbar">
+      <div className="navbar-container">
 
-    </nav>
-  )
-
+    </div>
+  </nav>
+)
 }
