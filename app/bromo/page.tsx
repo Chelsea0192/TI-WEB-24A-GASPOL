@@ -21,10 +21,8 @@ export default function BromoPage() {
     <p>Megahnya Api Abadi dari Timur Pulau Jawa</p>
     </div>
 
-     <Overview 
-        title="Tentang Gunung Bromo"
-        content={overviewText}
-      />
+     <Overview title="Tentang Gunung Bromo"content={overviewText}/>
+     <Overview title="Sejarah dan Tradisi" content={sejarahText} />
 
     </>
   )
