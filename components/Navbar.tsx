@@ -21,7 +21,9 @@ export default function Navbar() {
          {navItems.map((item) => (
           <li key={item.path}>
             <Link href={item.path}>
-
+                href={item.path} 
+                className={`nav-link ${pathname === item.path ? 'active' : ''}`}
+                {item.name}
             </Link>
           </li>
 
