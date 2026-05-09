@@ -23,6 +23,7 @@ export default function BromoPage() {
 
      <Overview title="Tentang Gunung Bromo"content={overviewText}/>
      <Overview title="Sejarah dan Tradisi" content={sejarahText} />
+     <Overview title="Keunikan Gunung Bromo" content={keunikanText} />
 
     </>
   )
