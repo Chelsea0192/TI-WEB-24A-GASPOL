@@ -13,6 +13,7 @@ export default function InfoWisataPage() {
      <ul className="info-list">
      <li>Wisatawan Domestik (Weekday): Rp 25.000 - Rp 50.000</li>
      <li>Wisatawan Domestik (Weekend/Holiday): Rp 35.000 - Rp 75.000</li>
+     <li>Wisatawan Asing: Rp 150.000 - Rp 250.000</li>
      </ul>
     </>
   )
