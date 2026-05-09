@@ -11,4 +11,10 @@ export default function Navbar() {
     { name: 'Hubungi Kami', path: '/hubungi-kami' },
   ]
 
+  return (
+    <nav>
+
+    </nav>
+  )
+
 }
