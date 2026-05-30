@@ -23,6 +23,7 @@ export default function InfoWisataPage() {
         <li><strong>Dari Malang:</strong> 2-3 jam perjalanan via Tumpang</li>
         <li><strong>Dari Probolinggo:</strong> 1-2 jam perjalanan menuju Cemoro Lawang</li>
         <li><strong>Kendaraan 4x4 (Jeep):</strong> Rp 350.000 - Rp 600.000 per jeep</li>
+        <li><strong>Horse riding:</strong> Rp 50.000 - Rp 100.000 per orang</li>
       </div>
     </>
   )
