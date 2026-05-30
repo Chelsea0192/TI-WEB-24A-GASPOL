@@ -20,6 +20,7 @@ export default function InfoWisataPage() {
     <div className="info-section">
         <h2 className="info-title">Akses dan Transportasi</h2>
         <li><strong>Dari Surabaya:</strong> 3-4 jam perjalanan via Tol Surabaya-Probolinggo</li>
+        <li><strong>Dari Malang:</strong> 2-3 jam perjalanan via Tumpang</li>
       </div>
     </>
   )
