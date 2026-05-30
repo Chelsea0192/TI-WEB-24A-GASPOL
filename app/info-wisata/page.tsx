@@ -32,6 +32,7 @@ export default function InfoWisataPage() {
           <li>Homestay di Ngadisari: Rp 200.000 - Rp 500.000/malam</li>
           <li>Hotel di Cemoro Lawang: Rp 300.000 - Rp 1.000.000/malam</li>
           <li>Villa di Wonokitri: Rp 500.000 - Rp 2.000.000/malam</li>
+           <li>Camping Ground: Rp 50.000 - Rp 100.000 per tenda</li>
          </ul>
       </div>
     </>
