@@ -40,6 +40,7 @@ export default function InfoWisataPage() {
         <h2 className="info-title">Tips Berkunjung</h2>
          <ul className="info-list">
            <li>Waktu terbaik: April - Oktober (musim kemarau)</li>
+           <li>Bawa jaket tebal karena suhu bisa mencapai 0-10°C</li>
          </ul>
       </div>
     </>
