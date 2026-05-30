@@ -29,7 +29,7 @@ export default function InfoWisataPage() {
       <div className="info-section">
          <h2 className="info-title">Akomodasi</h2>
          <ul className="info-list">
-          
+          <li>Homestay di Ngadisari: Rp 200.000 - Rp 500.000/malam</li>
          </ul>
       </div>
     </>
