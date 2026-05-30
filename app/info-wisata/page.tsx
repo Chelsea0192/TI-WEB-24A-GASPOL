@@ -38,6 +38,9 @@ export default function InfoWisataPage() {
 
       <div className="info-section">
         <h2 className="info-title">Tips Berkunjung</h2>
+         <ul className="info-list">
+          
+         </ul>
       </div>
     </>
   )
