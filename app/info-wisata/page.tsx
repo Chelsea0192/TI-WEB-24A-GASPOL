@@ -42,6 +42,7 @@ export default function InfoWisataPage() {
            <li>Waktu terbaik: April - Oktober (musim kemarau)</li>
            <li>Bawa jaket tebal karena suhu bisa mencapai 0-10°C</li>
            <li>Booking jeep H-1 atau H-2 sebelum kunjungan</li>
+           <li>Berangkat subuh (03.00-04.00) untuk melihat sunrise</li>
 
          </ul>
       </div>
