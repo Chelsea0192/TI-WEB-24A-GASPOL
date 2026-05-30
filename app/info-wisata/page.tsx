@@ -43,6 +43,7 @@ export default function InfoWisataPage() {
            <li>Bawa jaket tebal karena suhu bisa mencapai 0-10°C</li>
            <li>Booking jeep H-1 atau H-2 sebelum kunjungan</li>
            <li>Berangkat subuh (03.00-04.00) untuk melihat sunrise</li>
+           <li>Bawa masker untuk menghindari debu dan asap belerang</li>
 
          </ul>
       </div>
