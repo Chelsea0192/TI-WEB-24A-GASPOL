@@ -44,7 +44,7 @@ export default function InfoWisataPage() {
            <li>Booking jeep H-1 atau H-2 sebelum kunjungan</li>
            <li>Berangkat subuh (03.00-04.00) untuk melihat sunrise</li>
            <li>Bawa masker untuk menghindari debu dan asap belerang</li>
-
+            <li>Siapkan fisik yang prima untuk mendaki</li>
          </ul>
       </div>
     </>
