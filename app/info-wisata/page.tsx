@@ -41,6 +41,8 @@ export default function InfoWisataPage() {
          <ul className="info-list">
            <li>Waktu terbaik: April - Oktober (musim kemarau)</li>
            <li>Bawa jaket tebal karena suhu bisa mencapai 0-10°C</li>
+           <li>Booking jeep H-1 atau H-2 sebelum kunjungan</li>
+
          </ul>
       </div>
     </>
