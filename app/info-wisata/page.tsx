@@ -27,7 +27,8 @@ export default function InfoWisataPage() {
       </div>
 
       <div className="info-section">
-        
+         <h2 className="info-title">Akomodasi</h2>
+         
       </div>
     </>
   )
