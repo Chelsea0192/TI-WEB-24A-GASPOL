@@ -30,6 +30,7 @@ export default function InfoWisataPage() {
          <h2 className="info-title">Akomodasi</h2>
          <ul className="info-list">
           <li>Homestay di Ngadisari: Rp 200.000 - Rp 500.000/malam</li>
+          <li>Hotel di Cemoro Lawang: Rp 300.000 - Rp 1.000.000/malam</li>
          </ul>
       </div>
     </>
