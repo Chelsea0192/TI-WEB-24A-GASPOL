@@ -22,6 +22,7 @@ export default function InfoWisataPage() {
         <li><strong>Dari Surabaya:</strong> 3-4 jam perjalanan via Tol Surabaya-Probolinggo</li>
         <li><strong>Dari Malang:</strong> 2-3 jam perjalanan via Tumpang</li>
         <li><strong>Dari Probolinggo:</strong> 1-2 jam perjalanan menuju Cemoro Lawang</li>
+        <li><strong>Kendaraan 4x4 (Jeep):</strong> Rp 350.000 - Rp 600.000 per jeep</li>
       </div>
     </>
   )
