@@ -35,6 +35,10 @@ export default function InfoWisataPage() {
            <li>Camping Ground: Rp 50.000 - Rp 100.000 per tenda</li>
          </ul>
       </div>
+
+      <div className="info-section">
+        
+      </div>
     </>
   )
 }
