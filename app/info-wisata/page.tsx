@@ -40,9 +40,9 @@ export default function InfoWisataPage() {
            <ul className="info-list">
             <li>Hotel Bromo Permai</li>
             <li>Lava View Lodge</li>
+            <li>Bromo Cottages</li>
            </ul>
-            
-         </div>
+          </div>
       </div>
     </div>
     </div>
