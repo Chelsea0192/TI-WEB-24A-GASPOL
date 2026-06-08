@@ -47,6 +47,9 @@ export default function InfoWisataPage() {
 
           <div className="info-card">
             <h3>Waktu Terbaik</h3>
+          <ul className="info-list">
+            <li>Bulan Juni - Agustus (kemarau)</li>
+          </ul>
           </div>
       </div>
     </div>
