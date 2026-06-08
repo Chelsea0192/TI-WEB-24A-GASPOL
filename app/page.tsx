@@ -39,10 +39,13 @@ export default function Home() {
       <div className="overview-item">
         <strong>Halaman Hubungi Kami</strong>
         <p>Konsultasikan rencana perjalanan Anda dengan tim kami. Dapatkan bantuan untuk pemesanan tiket atau informasi terbaru.</p>
+      </div>
+    </div>
+  </section>
 
-      </div>
-      </div>
-       </section>
+      <section className="cards">
+        
+      </section>
        </div>
       <Footer/>
     </>
