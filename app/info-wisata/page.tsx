@@ -34,6 +34,10 @@ export default function InfoWisataPage() {
            <li>Jalur Sapikerep</li>
           </ul>
          </div>
+
+         <div className="info-card">
+          
+         </div>
       </div>
     </div>
     </div>
