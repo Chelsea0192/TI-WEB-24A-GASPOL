@@ -11,7 +11,7 @@ import Footer from '../../components/Footer';
       <Navbar />
       <div className="container">
       <div className="bromo-content">
-        
+         <h2>Mengenal Gunung Bromo</h2>
       </div>
       </div>
       <Footer />
