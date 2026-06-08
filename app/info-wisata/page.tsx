@@ -44,6 +44,10 @@ export default function InfoWisataPage() {
             <li>Homestay sekitar kawasan</li>
            </ul>
           </div>
+
+          <div className="info-card">
+            <h3>Waktu Terbaik</h3>
+          </div>
       </div>
     </div>
     </div>
