@@ -26,6 +26,9 @@ import Footer from '../../components/Footer';
       </div>
       
       <div className="feature">
+        <h3>Sunrise Terbaik</h3>
+        <p>Spot matahari terbit di Penanjakan yang terkenal sebagai salah satu sunrise terindah di dunia.</p>
+
       </div>
       </div>
       </div>
