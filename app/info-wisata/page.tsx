@@ -39,6 +39,7 @@ export default function InfoWisataPage() {
            <h3>Akomodasi</h3>
            <ul className="info-list">
             <li>Hotel Bromo Permai</li>
+            <li>Lava View Lodge</li>
            </ul>
             
          </div>
