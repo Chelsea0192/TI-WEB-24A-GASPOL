@@ -15,7 +15,9 @@ export default function InfoWisataPage() {
       <p>Berikut adalah informasi lengkap yang perlu Anda ketahui sebelum berkunjung ke Gunung Bromo.</p>
 
       <div className="info-grid">
+      <div className="info-card">
         
+      </div>
       </div>
     </div>
     </div>
