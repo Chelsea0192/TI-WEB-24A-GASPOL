@@ -10,7 +10,9 @@ export default function InfoWisataPage() {
     <>
     <Navbar/>
     <div className="container">
-      
+    <div className="info-section">
+
+     </div>
     </div>
     </>
   );
