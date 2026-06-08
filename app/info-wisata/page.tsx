@@ -41,6 +41,7 @@ export default function InfoWisataPage() {
             <li>Hotel Bromo Permai</li>
             <li>Lava View Lodge</li>
             <li>Bromo Cottages</li>
+            <li>Homestay sekitar kawasan</li>
            </ul>
           </div>
       </div>
