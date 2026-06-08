@@ -27,7 +27,7 @@ export default function Home() {
       
       <div className="overview-list">
       <div className="overview-item">
-        
+        <strong>Halaman Gunung Bromo</strong>
       </div>
 
       </div>
