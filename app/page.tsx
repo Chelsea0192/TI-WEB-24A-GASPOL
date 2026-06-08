@@ -20,6 +20,9 @@ export default function Home() {
        <div className="container">
        <section className="overview-section">
         <h2>Overview Website Wisata Bromo</h2>
+        <p>Selamat datang di portal informasi wisata Gunung Bromo yang lengkap dan terpercaya.
+           Website ini hadir untuk membantu Anda merencanakan perjalanan wisata ke Gunung Bromo dengan lebih mudah dan menyenangkan.</p>
+
        </section>
        </div>
       <Footer/>
