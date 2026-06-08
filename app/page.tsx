@@ -19,7 +19,7 @@ export default function Home() {
 
        <div className="container">
        <section className="overview-section">
-
+        <h2>Overview Website Wisata Bromo</h2>
        </section>
        </div>
       <Footer/>
