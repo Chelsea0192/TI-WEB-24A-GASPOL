@@ -36,7 +36,8 @@ export default function InfoWisataPage() {
          </div>
 
          <div className="info-card">
-          <h3>Akomodasi</h3>
+           <h3>Akomodasi</h3>
+           <ul className="info-list"></ul>
          </div>
       </div>
     </div>
