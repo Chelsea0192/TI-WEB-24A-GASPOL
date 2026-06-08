@@ -23,9 +23,11 @@ import Footer from '../../components/Footer';
         <div className="feature">
         <h3>Kawah Aktif</h3>
         <p>Kawah Bromo yang masih aktif mengeluarkan asap belerang, menciptakan pemandangan yang dramatis dan magis.</p>
-
-        </div>
-        </div>
+      </div>
+      
+      <div className="feature">
+      </div>
+      </div>
       </div>
       </div>
       <Footer />
