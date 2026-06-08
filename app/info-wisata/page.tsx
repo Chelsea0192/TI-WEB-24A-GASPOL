@@ -49,6 +49,7 @@ export default function InfoWisataPage() {
             <h3>Waktu Terbaik</h3>
           <ul className="info-list">
             <li>Bulan Juni - Agustus (kemarau)</li>
+            <li>Pukul 03.00 - 05.00 (sunrise)</li>
           </ul>
           </div>
       </div>
