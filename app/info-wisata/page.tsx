@@ -62,6 +62,7 @@ export default function InfoWisataPage() {
           <li>Bawa jaket tebal karena suhu bisa mencapai 0-10°C</li>
           <li>Siapkan masker untuk menghindari debu dan belerang</li>
           <li>Bawa bekal makanan dan minuman hangat</li>
+          <li>Sewa jeep untuk pengalaman terbaik</li>
           </div>
         </div>
       </div>
