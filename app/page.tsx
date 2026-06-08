@@ -13,6 +13,7 @@ export default function Home() {
       <section className="hero">
       <div className="container">
         <h1>Selamat Datang di Wisata Bromo</h1>
+        <p>Nikmati keindahan alam yang memukau di Gunung Bromo, Jawa Timur</p>
       </div>
       </section>
       <Footer/>
