@@ -32,9 +32,9 @@ import Footer from '../../components/Footer';
       <div className="feature">
         <h3>Lautan pasir</h3>
         <p>Hamparan pasir vulkanik seluas 10 kilometer persegi yang mengelilingi Gunung Bromo.</p>
-
       </div>
-      </div>
+    </div>
+    <h3>Sejarah Singkat</h3>
       </div>
       </div>
       <Footer />
