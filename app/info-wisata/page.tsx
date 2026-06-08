@@ -50,6 +50,7 @@ export default function InfoWisataPage() {
           <ul className="info-list">
             <li>Bulan Juni - Agustus (kemarau)</li>
             <li>Pukul 03.00 - 05.00 (sunrise)</li>
+            <li>Hindari musim hujan</li>
           </ul>
           </div>
       </div>
