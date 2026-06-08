@@ -54,9 +54,15 @@ export default function InfoWisataPage() {
             <li>Upacara Kasada (Desember)</li>
           </ul>
           </div>
+        </div>
+
+         <div style={{ marginTop: '30px', padding: '25px', background: '#f8fafc', borderRadius: '15px' }}>
+          <h3>Tips Berkunjung</h3>
+           
+          </div>
+        </div>
       </div>
-    </div>
-    </div>
+      <Footer />
     </>
   );
 }
