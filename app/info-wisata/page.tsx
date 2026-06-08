@@ -58,7 +58,7 @@ export default function InfoWisataPage() {
 
          <div style={{ marginTop: '30px', padding: '25px', background: '#f8fafc', borderRadius: '15px' }}>
           <h3>Tips Berkunjung</h3>
-           
+          <ul className="info-list"></ul>
           </div>
         </div>
       </div>
