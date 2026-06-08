@@ -52,6 +52,8 @@ export default function Home() {
 
       <div className="card">
         <h3>Info Wisata</h3>
+        <p>Dapatkan informasi lengkap tentang harga tiket, jalur pendakian, akomodasi, dan tips berkunjung ke Bromo.</p>
+
       </div>
       </section>
        </div>
