@@ -16,6 +16,10 @@ export default function Home() {
         <p>Nikmati keindahan alam yang memukau di Gunung Bromo, Jawa Timur</p>
       </div>
       </section>
+
+       <div className="container">
+        
+       </div>
       <Footer/>
     </>
   );
