@@ -22,6 +22,8 @@ export default function Home() {
         <h2>Overview Website Wisata Bromo</h2>
         <p>Selamat datang di portal informasi wisata Gunung Bromo yang lengkap dan terpercaya.
            Website ini hadir untuk membantu Anda merencanakan perjalanan wisata ke Gunung Bromo dengan lebih mudah dan menyenangkan.</p>
+        <p>Gunung Bromo merupakan salah satu destinasi wisata unggulan Indonesia yang terkenal hingga mancanegara.
+           Dengan ketinggian 2.329 meter di atas permukaan laut, Bromo menawarkan pemandangan alam yang luar biasa indah.</p>
 
        </section>
        </div>
