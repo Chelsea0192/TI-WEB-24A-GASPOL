@@ -20,7 +20,9 @@ import Footer from '../../components/Footer';
 
         <h3>Keunikan Gunung Bromo</h3>
         <div className="bromo-features">
+        <div className="feature">
           
+        </div>
         </div>
       </div>
       </div>
