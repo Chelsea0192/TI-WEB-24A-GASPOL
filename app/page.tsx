@@ -44,7 +44,9 @@ export default function Home() {
   </section>
 
       <section className="cards">
+       <div className="card">
         
+       </div>
       </section>
        </div>
       <Footer/>
