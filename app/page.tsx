@@ -26,7 +26,10 @@ export default function Home() {
            Dengan ketinggian 2.329 meter di atas permukaan laut, Bromo menawarkan pemandangan alam yang luar biasa indah.</p>
       
       <div className="overview-list">
+      <div className="overview-item">
         
+      </div>
+
       </div>
        </section>
        </div>
