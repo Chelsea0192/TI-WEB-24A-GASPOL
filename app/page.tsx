@@ -8,6 +8,11 @@ import Footer from '../components/Footer';
 
 export default function Home() {
   return (
-    <></>
+    <>
+      <Navbar/>
+      <section className="hero">
+      </section>
+      <Footer/>
+    </>
   );
 }
