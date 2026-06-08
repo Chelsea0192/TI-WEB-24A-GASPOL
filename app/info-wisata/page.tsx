@@ -11,7 +11,7 @@ export default function InfoWisataPage() {
     <Navbar/>
     <div className="container">
     <div className="info-section">
-
+      <h2>Informasi Wisata Gunung Bromo</h2>
      </div>
     </div>
     </>
