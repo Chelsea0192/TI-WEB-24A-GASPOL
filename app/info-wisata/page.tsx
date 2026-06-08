@@ -16,7 +16,7 @@ export default function InfoWisataPage() {
 
       <div className="info-grid">
       <div className="info-card">
-        
+        <h3>Harga Tiket Masuk</h3>
       </div>
       </div>
     </div>
