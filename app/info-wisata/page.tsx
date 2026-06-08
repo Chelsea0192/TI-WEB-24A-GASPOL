@@ -25,6 +25,9 @@ export default function InfoWisataPage() {
           <li>Sewa Jeep: Rp 400.000 - Rp 600.000</li>
         </ul>
       </div>
+         <div className="info-card">
+           <h3>Jalur Pendakian</h3>
+         </div>
       </div>
     </div>
     </div>
