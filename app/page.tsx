@@ -59,7 +59,7 @@ export default function Home() {
       <div className="card">
         <h3>Hubungi Kami</h3>
         <p>Ada pertanyaan? Hubungi kami untuk informasi lebih lanjut tentang wisata Bromo.</p>
-
+        <Link href="/hubungi-kami" className="btn">Selengkapnya →</Link>
       </div>
       </section>
        </div>
