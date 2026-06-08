@@ -45,7 +45,7 @@ export default function Home() {
 
       <section className="cards">
        <div className="card">
-        
+        <h3>bromo</h3>
        </div>
       </section>
        </div>
