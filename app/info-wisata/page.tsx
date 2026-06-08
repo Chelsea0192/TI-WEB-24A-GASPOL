@@ -22,6 +22,7 @@ export default function InfoWisataPage() {
           <li>Wisatawan Asing: Rp 150.000 - Rp 300.000</li>
           <li>Kendaraan Roda 2: Rp 10.000</li>
           <li>Kendaraan Roda 4: Rp 25.000</li>
+          <li>Sewa Jeep: Rp 400.000 - Rp 600.000</li>
         </ul>
       </div>
       </div>
