@@ -46,6 +46,8 @@ export default function Home() {
       <section className="cards">
        <div className="card">
         <h3>bromo</h3>
+        <p>Gunung Bromo adalah gunung berapi aktif yang terkenal dengan keindahan matahari terbitnya yang spektakuler.</p>
+
        </div>
       </section>
        </div>
