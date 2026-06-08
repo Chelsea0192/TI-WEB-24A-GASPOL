@@ -34,7 +34,10 @@ export default function Home() {
       <div className="overview-item">
         <strong>Halaman Info Wisata</strong>
         <p>Dapatkan informasi lengkap tentang harga tiket masuk, jalur pendakian terbaik, akomodasi, transportasi, dan tips berkunjung.</p>
+      </div>
 
+      <div className="overview-item">
+        
       </div>
       </div>
        </section>
