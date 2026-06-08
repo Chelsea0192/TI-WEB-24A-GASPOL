@@ -21,7 +21,9 @@ import Footer from '../../components/Footer';
         <h3>Keunikan Gunung Bromo</h3>
         <div className="bromo-features">
         <div className="feature">
-          <h3>Kawah Aktif</h3>
+        <h3>Kawah Aktif</h3>
+        <p>Kawah Bromo yang masih aktif mengeluarkan asap belerang, menciptakan pemandangan yang dramatis dan magis.</p>
+
         </div>
         </div>
       </div>
