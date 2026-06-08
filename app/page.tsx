@@ -28,6 +28,8 @@ export default function Home() {
       <div className="overview-list">
       <div className="overview-item">
         <strong>Halaman Gunung Bromo</strong>
+        <p>Pelajari sejarah, keunikan, dan keindahan Gunung Bromo secara mendalam. Temukan fakta-fakta menarik tentang gunung berapi aktif ini.</p>
+
       </div>
 
       </div>
