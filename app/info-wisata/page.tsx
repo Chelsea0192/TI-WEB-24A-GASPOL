@@ -20,6 +20,7 @@ export default function InfoWisataPage() {
         <ul className="info-list">
           <li>Wisatawan Domestik: Rp 30.000 - Rp 50.000</li>
           <li>Wisatawan Asing: Rp 150.000 - Rp 300.000</li>
+          <li>Kendaraan Roda 2: Rp 10.000</li>
         </ul>
       </div>
       </div>
