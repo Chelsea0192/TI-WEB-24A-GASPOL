@@ -29,6 +29,7 @@ export default function InfoWisataPage() {
            <h3>Jalur Pendakian</h3>
           <ul className="info-list">
            <li>Jalur Cemorolawang (paling populer)</li>
+           <li>Jalur Ngadisari</li>
           </ul>
          </div>
       </div>
