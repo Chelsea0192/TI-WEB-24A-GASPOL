@@ -12,7 +12,8 @@ export default function InfoWisataPage() {
     <div className="container">
     <div className="info-section">
       <h2>Informasi Wisata Gunung Bromo</h2>
-     </div>
+      <p>Berikut adalah informasi lengkap yang perlu Anda ketahui sebelum berkunjung ke Gunung Bromo.</p>
+    </div>
     </div>
     </>
   );
