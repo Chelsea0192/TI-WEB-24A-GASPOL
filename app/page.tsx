@@ -12,7 +12,7 @@ export default function Home() {
       <Navbar/>
       <section className="hero">
       <div className="container">
-        
+        <h1>Selamat Datang di Wisata Bromo</h1>
       </div>
       </section>
       <Footer/>
