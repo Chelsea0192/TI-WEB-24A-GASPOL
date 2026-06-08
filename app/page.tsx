@@ -11,6 +11,9 @@ export default function Home() {
     <>
       <Navbar/>
       <section className="hero">
+      <div className="container">
+        
+      </div>
       </section>
       <Footer/>
     </>
