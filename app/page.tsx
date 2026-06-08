@@ -37,7 +37,7 @@ export default function Home() {
       </div>
 
       <div className="overview-item">
-        
+        <strong>Halaman Hubungi Kami</strong>
       </div>
       </div>
        </section>
