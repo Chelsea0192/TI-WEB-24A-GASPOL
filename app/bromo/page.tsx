@@ -18,7 +18,7 @@ import Footer from '../../components/Footer';
         <p>Gunung ini masih aktif dan terakhir meletus pada tahun 2019. Meskipun demikian, Bromo tetap menjadi 
         destinasi wisata favorit bagi wisatawan lokal maupun mancanegara.</p>
 
-
+        <h3>Keunikan Gunung Bromo</h3>
       </div>
       </div>
       <Footer />
