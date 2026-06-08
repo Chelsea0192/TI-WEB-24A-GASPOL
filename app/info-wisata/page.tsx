@@ -19,6 +19,7 @@ export default function InfoWisataPage() {
         <h3>Harga Tiket Masuk</h3>
         <ul className="info-list">
           <li>Wisatawan Domestik: Rp 30.000 - Rp 50.000</li>
+          <li>Wisatawan Asing: Rp 150.000 - Rp 300.000</li>
         </ul>
       </div>
       </div>
