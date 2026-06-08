@@ -9,7 +9,11 @@ import Footer from '../../components/Footer';
     <>
      
       <Navbar />
-    
+      <div className="container">
+      <div className="bromo-content">
+        
+      </div>
+      </div>
       <Footer />
     </>
   );
