@@ -19,6 +19,9 @@ import Footer from '../../components/Footer';
         destinasi wisata favorit bagi wisatawan lokal maupun mancanegara.</p>
 
         <h3>Keunikan Gunung Bromo</h3>
+        <div className="bromo-features">
+          
+        </div>
       </div>
       </div>
       <Footer />
