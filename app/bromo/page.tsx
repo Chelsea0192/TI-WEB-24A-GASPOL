@@ -35,6 +35,9 @@ import Footer from '../../components/Footer';
       </div>
     </div>
     <h3>Sejarah Singkat</h3>
+    <p>Menurut legenda, Gunung Bromo berasal dari kata Brahma yang merupakan dewa Hindu. 
+      Masyarakat sekitar masih melestarikan tradisi upacara Kasada setiap tahunnya sebagai bentuk penghormatan.</p>
+
       </div>
       </div>
       <Footer />
