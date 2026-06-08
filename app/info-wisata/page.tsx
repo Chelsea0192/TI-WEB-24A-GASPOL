@@ -1,52 +1,76 @@
+'use client';
+
+import React from 'react';
+
+import Navbar from '../../components/Navbar';
+import Footer from '../../components/Footer';
+
 export default function InfoWisataPage() {
   return (
     <>
-      <div className="hero">
-        <h1>📋 Info Wisata Bromo</h1>
-        <p>Informasi lengkap untuk kunjungan Anda</p>
-      </div>
       
-      <div className="info-section">
-        <h2 className="info-title">Harga Tiket Masuk</h2>
-        <ul className="info-list">
-          <li>Wisatawan Domestik (Weekday): Rp 25.000 - Rp 50.000</li>
-          <li>Wisatawan Domestik (Weekend/Holiday): Rp 35.000 - Rp 75.000</li>
-          <li>Wisatawan Asing: Rp 150.000 - Rp 250.000</li>
-          <li>Kendaraan Roda 2: Rp 15.000</li>
-          <li>Kendaraan Roda 4: Rp 30.000 - Rp 50.000</li>
-        </ul>
+      <Navbar />
+      <div className="container">
+        <div className="info-section">
+          <h2>Informasi Wisata Gunung Bromo</h2>
+          <p>Berikut adalah informasi lengkap yang perlu Anda ketahui sebelum berkunjung ke Gunung Bromo.</p>
+          
+          <div className="info-grid">
+            <div className="info-card">
+              <h3>Harga Tiket Masuk</h3>
+              <ul className="info-list">
+                <li>Wisatawan Domestik: Rp 30.000 - Rp 50.000</li>
+                <li>Wisatawan Asing: Rp 150.000 - Rp 300.000</li>
+                <li>Kendaraan Roda 2: Rp 10.000</li>
+                <li>Kendaraan Roda 4: Rp 25.000</li>
+                <li>Sewa Jeep: Rp 400.000 - Rp 600.000</li>
+              </ul>
+            </div>
+            
+            <div className="info-card">
+              <h3>Jalur Pendakian</h3>
+              <ul className="info-list">
+                <li>Jalur Cemorolawang (paling populer)</li>
+                <li>Jalur Ngadisari</li>
+                <li>Jalur Wonokerto</li>
+                <li>Jalur Sapikerep</li>
+              </ul>
+            </div>
+            
+            <div className="info-card">
+              <h3>Akomodasi</h3>
+              <ul className="info-list">
+                <li>Hotel Bromo Permai</li>
+                <li>Lava View Lodge</li>
+                <li>Bromo Cottages</li>
+                <li>Homestay sekitar kawasan</li>
+              </ul>
+            </div>
+            
+            <div className="info-card">
+              <h3>Waktu Terbaik</h3>
+              <ul className="info-list">
+                <li>Bulan Juni - Agustus (kemarau)</li>
+                <li>Pukul 03.00 - 05.00 (sunrise)</li>
+                <li>Hindari musim hujan</li>
+                <li>Upacara Kasada (Desember)</li>
+              </ul>
+            </div>
+          </div>
+          
+          <div style={{ marginTop: '30px', padding: '25px', background: '#f8fafc', borderRadius: '15px' }}>
+            <h3>Tips Berkunjung</h3>
+            <ul className="info-list">
+              <li>Bawa jaket tebal karena suhu bisa mencapai 0-10°C</li>
+              <li>Siapkan masker untuk menghindari debu dan belerang</li>
+              <li>Bawa bekal makanan dan minuman hangat</li>
+              <li>Sewa jeep untuk pengalaman terbaik</li>
+              <li>Datang lebih awal untuk mendapatkan spot sunrise terbaik</li>
+            </ul>
+          </div>
+        </div>
       </div>
-      
-    <div className="info-section">
-        <h2 className="info-title">Akses dan Transportasi</h2>
-        <li><strong>Dari Surabaya:</strong> 3-4 jam perjalanan via Tol Surabaya-Probolinggo</li>
-        <li><strong>Dari Malang:</strong> 2-3 jam perjalanan via Tumpang</li>
-        <li><strong>Dari Probolinggo:</strong> 1-2 jam perjalanan menuju Cemoro Lawang</li>
-        <li><strong>Kendaraan 4x4 (Jeep):</strong> Rp 350.000 - Rp 600.000 per jeep</li>
-        <li><strong>Horse riding:</strong> Rp 50.000 - Rp 100.000 per orang</li>
-      </div>
-
-      <div className="info-section">
-         <h2 className="info-title">Akomodasi</h2>
-         <ul className="info-list">
-          <li>Homestay di Ngadisari: Rp 200.000 - Rp 500.000/malam</li>
-          <li>Hotel di Cemoro Lawang: Rp 300.000 - Rp 1.000.000/malam</li>
-          <li>Villa di Wonokitri: Rp 500.000 - Rp 2.000.000/malam</li>
-           <li>Camping Ground: Rp 50.000 - Rp 100.000 per tenda</li>
-         </ul>
-      </div>
-
-      <div className="info-section">
-        <h2 className="info-title">Tips Berkunjung</h2>
-         <ul className="info-list">
-           <li>Waktu terbaik: April - Oktober (musim kemarau)</li>
-           <li>Bawa jaket tebal karena suhu bisa mencapai 0-10°C</li>
-           <li>Booking jeep H-1 atau H-2 sebelum kunjungan</li>
-           <li>Berangkat subuh (03.00-04.00) untuk melihat sunrise</li>
-           <li>Bawa masker untuk menghindari debu dan asap belerang</li>
-            <li>Siapkan fisik yang prima untuk mendaki</li>
-         </ul>
-      </div>
+      <Footer />
     </>
-  )
+  );
 }

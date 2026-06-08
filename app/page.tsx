@@ -1,55 +1,71 @@
-import Overview from '@/components/Overview'
+'use client';
+
+import React from 'react';
+import Link from 'next/link';
+
+import Navbar from '../components/Navbar';
+import Footer from '../components/Footer';
 
 export default function Home() {
-  const overviewText = "Selamat datang di website wisata Gunung Bromo!"
-
   return (
     <>
-      <div className="hero">
-        <h1>🌄 Pesona Gunung Bromo</h1>
-        <p>Keindahan Alam yang Tak Terlupakan di Jawa Timur</p>
+      
+      <Navbar />
+      <div>
+        <section className="hero">
+          <div className="container">
+            <h1>Selamat Datang di Wisata Bromo</h1>
+            <p>Nikmati keindahan alam yang memukau di Gunung Bromo, Jawa Timur</p>
+          </div>
+        </section>
+
+        <div className="container">
+          <section className="overview-section">
+            <h2>Overview Website Wisata Bromo</h2>
+            <p>Selamat datang di portal informasi wisata Gunung Bromo yang lengkap dan terpercaya. Website ini hadir untuk membantu Anda merencanakan perjalanan wisata ke Gunung Bromo dengan lebih mudah dan menyenangkan.</p>
+            
+            <p>Gunung Bromo merupakan salah satu destinasi wisata unggulan Indonesia yang terkenal hingga mancanegara. Dengan ketinggian 2.329 meter di atas permukaan laut, Bromo menawarkan pemandangan alam yang luar biasa indah.</p>
+            
+            <div className="overview-list">
+              <div className="overview-item">
+                <strong>Halaman Gunung Bromo</strong>
+                <p>Pelajari sejarah, keunikan, dan keindahan Gunung Bromo secara mendalam. Temukan fakta-fakta menarik tentang gunung berapi aktif ini.</p>
+              </div>
+              
+              <div className="overview-item">
+                <strong>Halaman Info Wisata</strong>
+                <p>Dapatkan informasi lengkap tentang harga tiket masuk, jalur pendakian terbaik, akomodasi, transportasi, dan tips berkunjung.</p>
+              </div>
+              
+              <div className="overview-item">
+                <strong>Halaman Hubungi Kami</strong>
+                <p>Konsultasikan rencana perjalanan Anda dengan tim kami. Dapatkan bantuan untuk pemesanan tiket atau informasi terbaru.</p>
+              </div>
+            </div>
+          </section>
+
+          <section className="cards">
+            <div className="card">
+              <h3>bromo</h3>
+              <p>Gunung Bromo adalah gunung berapi aktif yang terkenal dengan keindahan matahari terbitnya yang spektakuler.</p>
+              <Link href="/bromo" className="btn">Selengkapnya →</Link>
+            </div>
+            
+            <div className="card">
+              <h3>Info Wisata</h3>
+              <p>Dapatkan informasi lengkap tentang harga tiket, jalur pendakian, akomodasi, dan tips berkunjung ke Bromo.</p>
+              <Link href="/info-wisata" className="btn">Selengkapnya →</Link>
+            </div>
+            
+            <div className="card">
+              <h3>Hubungi Kami</h3>
+              <p>Ada pertanyaan? Hubungi kami untuk informasi lebih lanjut tentang wisata Bromo.</p>
+              <Link href="/hubungi-kami" className="btn">Selengkapnya →</Link>
+            </div>
+          </section>
+        </div>
       </div>
-
-      <Overview title="Selamat Datang di Wisata Bromo" content={overviewText} />
-      <div className="cards-container">
-        
-       
-        <div className="card">
-          <div className="card-image"></div>
-          <div className="card-content">
-            <h3 className="card-title">Panorama Sunrise</h3>
-            <p className="card-text">
-              Nikmati keindahan matahari terbit dari puncak Gunung Penanjakan. 
-              Pemandangan golden hour yang memukau dengan latar Gunung Bromo dan Semeru.
-            </p>
-          </div>
-        </div>
-
-       
-        <div className="card">
-          <div className="card-image"></div>
-          <div className="card-content">
-            <h3 className="card-title">Lautan Pasir Bromo</h3>
-            <p className="card-text">
-              Jelajahi hamparan pasir vulkanik seluas 10 kilometer persegi 
-              yang mengelilingi kawah Gunung Bromo.
-            </p>
-          </div>
-        </div>
-
-        
-        <div className="card">
-          <div className="card-image"></div>
-          <div className="card-content">
-            <h3 className="card-title">Kawah Bromo</h3>
-            <p className="card-text">
-              Rasakan sensasi mendaki ke puncak kawah dan melihat langsung 
-              aktifitas gunung berapi yang masih aktif hingga saat ini.
-            </p>
-          </div>
-        </div>
-
-      </div> {/* Akhir dari cards-container */}
+      <Footer />
     </>
-  )
+  );
 }

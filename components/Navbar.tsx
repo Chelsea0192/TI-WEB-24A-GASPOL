@@ -1,30 +1,28 @@
-'use client'
+'use client';
 
-import Link from 'next/link'
-import { usePathname } from 'next/navigation'
+import React from 'react';
+import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 
-export default function Navbar() {
-  const pathname = usePathname()
-  
+const Navbar: React.FC = () => {
+  const pathname = usePathname();
+
   const navItems = [
-    { name: 'Home', path: '/' },
+    { name: 'Beranda', path: '/' },
     { name: 'Bromo', path: '/bromo' },
     { name: 'Info Wisata', path: '/info-wisata' },
     { name: 'Hubungi Kami', path: '/hubungi-kami' },
-  ]
-  
+  ];
+
   return (
     <nav className="navbar">
-      <div className="navbar-container">
-        <Link href="/" className="navbar-logo">
-          🌋 Wisata Bromo
-        </Link>
+      <div className="nav-container">
         <ul className="nav-menu">
           {navItems.map((item) => (
             <li key={item.path}>
               <Link 
-                href={item.path} 
-                className={`nav-link ${pathname === item.path ? 'active' : ''}`}
+                href={item.path}
+                className={pathname === item.path ? 'active' : ''}
               >
                 {item.name}
               </Link>
@@ -33,5 +31,7 @@ export default function Navbar() {
         </ul>
       </div>
     </nav>
-  )
-}
+  );
+};
+
+export default Navbar;

@@ -1,31 +1,9 @@
-import Overview from '@/components/Overview'
+'use client';
+
+import React from 'react';
+import Navbar from '../../components/Navbar';
+import Footer from '../../components/Footer';
+
 export default function BromoPage() {
- const overviewText = `Gunung Bromo adalah destinasi wisata unggulan di Jawa Timur yang menawarkan
-  keindahan alam luar biasa. Terletak di kawasan Bromo Tengger Semeru National Park,
-  gunung ini memiliki ketinggian 2.329 MDPL.`;  
-  
-  const sejarahText = `Nama Bromo berasal dari kata Brahma, yaitu dewa api dalam
-  kepercayaan Hindu. Masyarakat Tengger yang tinggal di sekitar kawasan ini
-  masih menjaga tradisi dan budaya leluhur.`;
-
-  const keunikanText = `Gunung Bromo memiliki beberapa keunikan yang tidak dimiliki
-  gunung lainnya: kawah yang mudah diakses, lautan pasir terluas di Indonesia,
-  pemandangan sunrise terbaik di Pulau Jawa, serta keberadaan pura di tengah
-  lautan pasir.`;
-   
-
-   return (
-    <>
-    <div className="hero">
-    <h1>🌋 Gunung Bromo</h1>
-    <p>Megahnya Api Abadi dari Timur Pulau Jawa</p>
-    </div>
-
-     <Overview title="Tentang Gunung Bromo"content={overviewText}/>
-     <Overview title="Sejarah dan Tradisi" content={sejarahText} />
-     <Overview title="Keunikan Gunung Bromo" content={keunikanText} />
-
-    </>
-  )
-  
+  return 
 }
