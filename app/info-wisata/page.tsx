@@ -37,7 +37,10 @@ export default function InfoWisataPage() {
 
          <div className="info-card">
            <h3>Akomodasi</h3>
-           <ul className="info-list"></ul>
+           <ul className="info-list">
+            <li>Hotel Bromo Permai</li>
+           </ul>
+            
          </div>
       </div>
     </div>
