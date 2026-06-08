@@ -27,6 +27,9 @@ export default function InfoWisataPage() {
       </div>
          <div className="info-card">
            <h3>Jalur Pendakian</h3>
+          <ul className="info-list">
+           <li>Jalur Cemorolawang (paling populer)</li>
+          </ul>
          </div>
       </div>
     </div>
