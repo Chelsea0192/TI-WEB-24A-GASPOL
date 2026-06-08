@@ -51,6 +51,7 @@ export default function InfoWisataPage() {
             <li>Bulan Juni - Agustus (kemarau)</li>
             <li>Pukul 03.00 - 05.00 (sunrise)</li>
             <li>Hindari musim hujan</li>
+            <li>Upacara Kasada (Desember)</li>
           </ul>
           </div>
       </div>
