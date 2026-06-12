@@ -31,6 +31,10 @@ export default function HubungiKamiPage() {
   return (  
     <>
         <Navbar />
+        <div className="container">
+            
+        </div>
+
     </>
   
   );
