@@ -80,6 +80,7 @@ export default function HubungiKamiPage() {
               name="name"
               value={formData.name}
               onChange={handleChange}
+              required
              />
         </div>
         </form>
