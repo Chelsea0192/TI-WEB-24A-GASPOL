@@ -73,7 +73,7 @@ export default function HubungiKamiPage() {
 
         <form onSubmit={handleSubmit}>
         <div className="form-group">
-            
+            <label htmlFor="name">Nama Lengkap</label>
         </div>
         </form>
     </div>
