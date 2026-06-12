@@ -47,7 +47,11 @@ export default function HubungiKamiPage() {
         <strong>Alamat Kantor</strong>
         <p>Jl. Raya Bromo No. 123, Probolinggo, Jawa Timur</p>
     </div>
-    
+
+    <div className="contact-item">
+        <strong>Telepon</strong>
+    </div>
+
     </div>
     </div>
 
