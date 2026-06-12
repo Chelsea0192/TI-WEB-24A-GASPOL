@@ -32,7 +32,7 @@ export default function HubungiKamiPage() {
     <>
         <Navbar />
         <div className="container">
-            
+        <div className="contact-info">
         </div>
 
     </>
