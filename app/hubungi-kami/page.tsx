@@ -8,6 +8,7 @@ export default function HubungiKamiPage() {
       const [formData, setFormData] = useState({
         name: '',
         email: '',
+        message: ''
 
 });
 }
