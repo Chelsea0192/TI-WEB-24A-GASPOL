@@ -50,6 +50,7 @@ export default function HubungiKamiPage() {
 
     <div className="contact-item">
         <strong>Telepon</strong>
+        <p>(0341) 123456</p>
     </div>
 
     </div>
