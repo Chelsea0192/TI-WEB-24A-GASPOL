@@ -30,6 +30,7 @@ export default function HubungiKamiPage() {
 
   return (  
     <>
+        <Navbar />
     </>
   
   );
