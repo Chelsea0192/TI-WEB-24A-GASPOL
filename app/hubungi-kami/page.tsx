@@ -79,6 +79,7 @@ export default function HubungiKamiPage() {
               id="name"
               name="name"
               value={formData.name}
+              onChange={handleChange}
              />
         </div>
         </form>
