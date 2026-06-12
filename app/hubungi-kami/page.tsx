@@ -77,6 +77,7 @@ export default function HubungiKamiPage() {
              <input
               type="text"
               id="name"
+              name="name"
              />
         </div>
         </form>
