@@ -61,7 +61,7 @@ export default function HubungiKamiPage() {
     </div>
 
     <div className="contact-item">
-        
+        <strong>Jam Layanan</strong>
     </div>
     </div>
     </div>
