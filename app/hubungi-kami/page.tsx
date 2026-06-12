@@ -9,8 +9,10 @@ export default function HubungiKamiPage() {
         name: '',
         email: '',
         message: ''
-
 });
+
+  const [submitted, setSubmitted] = useState(false);
+
 }
 
 
