@@ -21,3 +21,5 @@ export default function HubungiKamiPage() {
 };
 
     const handleSubmit = (e: React.FormEvent) => {
+        e.preventDefault();
+
