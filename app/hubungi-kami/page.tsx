@@ -59,6 +59,10 @@ export default function HubungiKamiPage() {
         <p>info@bromowisata.com</p>
         <p>reservation@bromowisata.com</p>
     </div>
+
+    <div className="contact-item">
+        
+    </div>
     </div>
     </div>
 
