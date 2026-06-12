@@ -6,6 +6,8 @@ import Footer from '../../components/Footer';
 
 export default function HubungiKamiPage() {
       const [formData, setFormData] = useState({
+        name: '',
+
 
 });
 }
