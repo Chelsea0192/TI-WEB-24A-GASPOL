@@ -72,7 +72,9 @@ export default function HubungiKamiPage() {
         <h2>Kirim Pesan</h2>
 
         <form onSubmit={handleSubmit}>
+        <div className="form-group">
             
+        </div>
         </form>
     </div>
     </div>
