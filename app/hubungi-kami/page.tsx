@@ -69,7 +69,7 @@ export default function HubungiKamiPage() {
     </div>
 
     <div className="contact-form">
-        
+        <h2>Kirim Pesan</h2>
     </div>
     </div>
 
