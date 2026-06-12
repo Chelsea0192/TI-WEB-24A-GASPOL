@@ -54,6 +54,9 @@ export default function HubungiKamiPage() {
         <p>0812-3456-7890 (WhatsApp)</p>
     </div>
 
+    <div className="contact-item">
+        <strong>Email</strong>
+    </div>
     </div>
     </div>
 
