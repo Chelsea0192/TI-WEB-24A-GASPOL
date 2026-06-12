@@ -24,5 +24,6 @@ export default function HubungiKamiPage() {
         e.preventDefault();
         console.log('Form submitted:', formData);
         setSubmitted(true);
+        setTimeout(() => setSubmitted(false), 3000);
 
 
