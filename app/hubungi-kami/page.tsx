@@ -65,7 +65,11 @@ export default function HubungiKamiPage() {
         <p>Senin - Minggu: 08.00 - 20.00 WIB</p>
         <p>24 jam untuk layanan darurat</p>
         <p>24 jam untuk layanan darurat</p>
+        </div>
     </div>
+
+    <div className="contact-form">
+        
     </div>
     </div>
 
