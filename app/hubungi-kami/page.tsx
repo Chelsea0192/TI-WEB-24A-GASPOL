@@ -76,6 +76,7 @@ export default function HubungiKamiPage() {
             <label htmlFor="name">Nama Lengkap</label>
              <input
               type="text"
+              id="name"
              />
         </div>
         </form>
