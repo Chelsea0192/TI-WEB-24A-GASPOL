@@ -44,9 +44,10 @@ export default function HubungiKamiPage() {
         <h2>Informasi Kontak</h2>
     
     <div className="contact-item">
-        
-    </div>
-    </div>
+        <strong>Alamat Kantor</strong>
+
+        </div>
+        </div>
     </div>
 
     <Footer />
