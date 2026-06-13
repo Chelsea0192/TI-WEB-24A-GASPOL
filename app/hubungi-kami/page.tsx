@@ -98,6 +98,7 @@ export default function HubungiKamiPage() {
           <label htmlFor="message">Pesan</label>
           <textarea
           id="message"
+          name="message"
           />
          </div>
         </form>
