@@ -100,6 +100,7 @@ export default function HubungiKamiPage() {
           id="message"
           name="message"
           rows={5}
+          value={formData.message}
           />
          </div>
         </form>
