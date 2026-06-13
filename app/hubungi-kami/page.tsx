@@ -91,6 +91,7 @@ export default function HubungiKamiPage() {
             id="email"
             value={formData.email}
             onChange={handleChange}
+            required
             />
         </div>
         </form>
