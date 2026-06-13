@@ -106,14 +106,26 @@ export default function HubungiKamiPage() {
           />
          </div>
 
-          <button type="submit" className="btn"
+          <button type="submit" className="btn">
           Kirim Pesan
-            />
-        </form>
-    </div>
-    </div>
+            </button>
 
-    <Footer />
-  </>
-);
+             {submitted && (
+              <p
+                style={{
+                  marginTop: '15px',
+                  color: '#2a5298',
+                  textAlign: 'center',
+                }}
+              >
+                ✓ Pesan berhasil dikirim!
+              </p>
+            )}
+          </form>
+        </div>
+      </div>
+
+      <Footer />
+    </>
+  );
 }
