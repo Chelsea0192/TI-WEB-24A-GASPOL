@@ -99,6 +99,7 @@ export default function HubungiKamiPage() {
           <textarea
           id="message"
           name="message"
+          rows={5}
           />
          </div>
         </form>
