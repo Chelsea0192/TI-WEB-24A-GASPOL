@@ -105,6 +105,9 @@ export default function HubungiKamiPage() {
            required
           />
          </div>
+
+          <button type="submit" className="btn"
+            />
         </form>
     </div>
     </div>
