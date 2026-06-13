@@ -95,7 +95,7 @@ export default function HubungiKamiPage() {
             />
         </div>
          <div className="form-group">
-          
+          <label htmlFor="message">Pesan</label>
          </div>
         </form>
     </div>
