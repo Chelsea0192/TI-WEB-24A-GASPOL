@@ -101,6 +101,7 @@ export default function HubungiKamiPage() {
           name="message"
           rows={5}
           value={formData.message}
+          onChange={handleChange}
           />
          </div>
         </form>
