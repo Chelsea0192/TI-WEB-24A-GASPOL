@@ -85,7 +85,7 @@ export default function HubungiKamiPage() {
         </div>
 
         <div className="form-group">
-          
+           <label htmlFor="email">Email</label>
         </div>
         </form>
     </div>
