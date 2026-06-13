@@ -107,6 +107,7 @@ export default function HubungiKamiPage() {
          </div>
 
           <button type="submit" className="btn"
+          Kirim Pesan
             />
         </form>
     </div>
