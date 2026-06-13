@@ -89,6 +89,7 @@ export default function HubungiKamiPage() {
             <input
             type="email"
             id="email"
+            value={formData.email}
             />
         </div>
         </form>
