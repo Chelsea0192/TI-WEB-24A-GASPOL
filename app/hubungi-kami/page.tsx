@@ -102,6 +102,7 @@ export default function HubungiKamiPage() {
           rows={5}
           value={formData.message}
           onChange={handleChange}
+           required
           />
          </div>
         </form>
